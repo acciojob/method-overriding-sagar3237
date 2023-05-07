@@ -19,5 +19,8 @@ public class Main {
         // creating an object of class B
         B obj = new B();
         obj.meth();
+
+        B obj1 = new B();
+        obj.meth();
     }
 }

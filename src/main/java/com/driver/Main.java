@@ -21,6 +21,6 @@ public class Main {
         obj.meth();
 
         B obj1 = new B();
-        obj.meth();
+        obj1.meth();
     }
 }

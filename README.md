@@ -17,7 +17,7 @@ STEPS:
  *
  * Task 4:
  * Now override methode `meth` of class A in class B, which returns the following string
- * "Method is overridden in Extendend class B"
+ * "Method is overridden in Extended class B"
  *
  * Task 5:
  * call this overridden method from obj of class B

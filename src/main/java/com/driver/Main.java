@@ -17,10 +17,10 @@ public class Main {
 }
     public static void main(String[] args) {
         // creating an object of class B
-        B obj = new B();
-        obj.meth();
+        B b = new B();
+        b.meth();
 
-        B obj1 = new B();
-        obj1.meth();
+        B b1 = new B();
+        b1.meth();
     }
 }

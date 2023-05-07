@@ -12,12 +12,15 @@ public class Main {
 
     @Override
     public String meth() {
-        return "Method is overridden in Extended class ";
+        return "Method is overridden in Extendend class ";
     }
 }
     public static void main(String[] args) {
         // creating an object of class B
         B obj = new B();
         obj.meth();
+
+        B obj1 = new B();
+        obj1.meth();
     }
 }
